@@ -1,0 +1,49 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  max_guest_number: 3
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Paris, France"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  max_guest_number: 5
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  max_guest_number: 2
+timursarkisov:
+  name: Timur's home
+  description: Nice flat near Potsdamer Platz
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  wifi: true
+  rating: 5
+  max_guest_number: 1
+yuliyaandreeva:
+  name: Yuliya's home
+  description: Nice flat in Los Angeles
+  city_name: "Los Angeles, US"
+  city_slug: "los_angeles"
+  wifi: true
+  rating: 5
+  max_guest_number: 2
+johnblack:
+  name: John's home
+  description: Nice flat in Barcelona
+  city_name: "Barcelona, Spain"
+  city_slug: "barcelona"
+  wifi: true
+  rating: 5
+  max_guest_number: 2
+

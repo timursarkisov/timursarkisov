@@ -1,0 +1,13 @@
+<%= partial "layouts/banner", locals: { header: "Welcome home", home: false } %>
+
+<h1 class="text-center">Meet the team</h1>
+<div class="text-center">
+  <ul class="list-inline">
+    <% %w(cyril timur).each do |member| %>
+      <li>
+        <img src="images/<%= member%>.jpg" alt="" width="120" class="img-circle">
+        <h3><%= member.capitalize%></h3>
+      </li>
+    <% end %>
+  </ul>
+</div>

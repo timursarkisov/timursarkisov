@@ -1,0 +1,20 @@
+.banner {
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  display:flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  h1 {
+      color: white;
+      font-size: 50px;
+  }
+  p {
+  color: white;
+  font-size: 25px;
+  }
+}
+
